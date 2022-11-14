@@ -1,5 +1,5 @@
 # Natan, Polish language voice for RHVoice
-This voice is distributed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+This voice is distributed in the [public domain](https://creativecommons.org/publicdomain/zero/1.0//).
 
 ## Team
 - Edwin Tarka - Speaker.
