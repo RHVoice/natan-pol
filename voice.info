@@ -2,6 +2,6 @@ name=Natan
 language=Polish
 gender=male
 format=4
-revision=11
+revision=12
 msi_upgrade_code=f8633c03-925f-433c-a2a6-141fdf979974
 exe_upgrade_code=6ceb4a40-9f35-469b-b8cd-ec98d29b80fb
